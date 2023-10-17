@@ -66,10 +66,10 @@
 
 ​		这这个视频主要是各个技术关键点讲得非常清晰，并且是对着代码讲解，我个人是非常喜欢这种讲解的风格的。一样，看完别忘了一键三连！
 
-​		- transformer的学习记录【完整代码+详细注释】 https://blog.csdn.net/weixin_42521185/category_11786267.html
-
 ​		**这两位up主都自己写了一份 Transformer 的代码，而且都配有课件，可以在他们的视频下面获取，我就不贴链接了。**
 
+- transformer的学习记录【完整代码+详细注释】 https://blog.csdn.net/weixin_42521185/category_11786267.html
+- 2023 大模型源码学习 包括 llama2、百川、chatglm等：https://lusing.blog.csdn.net/?type=blog
 
 
 ## 代码
