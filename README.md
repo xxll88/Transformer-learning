@@ -58,7 +58,7 @@
 
 ### B站的教学视频
 
-- 老弓的学习日记：https://www.bilibili.com/video/BV1YU4y1c7UT
+- 老弓的学习日记：[https://www.bilibili.com/video/BV1YU4y1c7UT](https://www.bilibili.com/video/BV1YU4y1c7UT/?spm_id_from=333.999.0.0&vd_source=1584f233dd9164ab9a9812d3ac09e5ee)
 
 ​		这个视频真是我学习 Transformer 路上的超级助力，up主非常详细地把 Transformer 里边的细节和知识点讲得非常清楚，堪称事无巨细，而且还举了一个例子，看的时候能比较直观地感受数据的流动过程，这不比各种付费课程强多了？看完别忘了一键三连！这个up主其他的深度学习相关的视频也做得非常好，干货满满。
 
@@ -66,7 +66,7 @@
 
 ​		这这个视频主要是各个技术关键点讲得非常清晰，并且是对着代码讲解，我个人是非常喜欢这种讲解的风格的。一样，看完别忘了一键三连！
 
-​		
+​		- transformer的学习记录【完整代码+详细注释】 https://blog.csdn.net/weixin_42521185/category_11786267.html
 
 ​		**这两位up主都自己写了一份 Transformer 的代码，而且都配有课件，可以在他们的视频下面获取，我就不贴链接了。**
 
